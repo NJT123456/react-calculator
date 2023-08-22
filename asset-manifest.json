@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-javascript-calculator/static/css/main.99ec5092.css",
-    "main.js": "/react-javascript-calculator/static/js/main.a6e02d92.js",
-    "static/js/787.67bed5e2.chunk.js": "/react-javascript-calculator/static/js/787.67bed5e2.chunk.js",
-    "index.html": "/react-javascript-calculator/index.html",
-    "main.99ec5092.css.map": "/react-javascript-calculator/static/css/main.99ec5092.css.map",
-    "main.a6e02d92.js.map": "/react-javascript-calculator/static/js/main.a6e02d92.js.map",
-    "787.67bed5e2.chunk.js.map": "/react-javascript-calculator/static/js/787.67bed5e2.chunk.js.map"
+    "main.css": "/react-calculator/static/css/main.99ec5092.css",
+    "main.js": "/react-calculator/static/js/main.3f344eb9.js",
+    "static/js/787.67bed5e2.chunk.js": "/react-calculator/static/js/787.67bed5e2.chunk.js",
+    "index.html": "/react-calculator/index.html",
+    "main.99ec5092.css.map": "/react-calculator/static/css/main.99ec5092.css.map",
+    "main.3f344eb9.js.map": "/react-calculator/static/js/main.3f344eb9.js.map",
+    "787.67bed5e2.chunk.js.map": "/react-calculator/static/js/787.67bed5e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99ec5092.css",
-    "static/js/main.a6e02d92.js"
+    "static/js/main.3f344eb9.js"
   ]
 }
